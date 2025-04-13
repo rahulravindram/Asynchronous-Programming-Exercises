@@ -1,4 +1,4 @@
-/* 🔥 Gradient Background */
+/* Gradient Background */
 body {
     font-family: 'Poppins', sans-serif;
     background: linear-gradient(135deg, #1e3c72, #2a5298);
@@ -8,7 +8,7 @@ body {
     color: #fff;
 }
 
-/* 🎨 Centered Content Box */
+/* Centered Content Box */
 .container {
     background: rgba(255, 255, 255, 0.9);
     padding: 30px;
@@ -19,12 +19,12 @@ body {
     transition: transform 0.3s ease-in-out;
 }
 
-/* 🏆 Hover Effect */
+/* Hover Effect */
 .container:hover {
     transform: scale(1.02);
 }
 
-/* ✨ Heading Style */
+/* Heading Style */
 h1 {
     color: #2c3e50;
     font-size: 28px;
@@ -33,7 +33,7 @@ h1 {
     margin-bottom: 20px;
 }
 
-/* 🔥 Animated Button */
+/* Animated Button */
 button {
     background: linear-gradient(135deg, #ff416c, #ff4b2b);
     color: white;
@@ -47,14 +47,14 @@ button {
     box-shadow: 0px 5px 10px rgba(0, 0, 0, 0.2);
 }
 
-/* ✨ Button Hover Effect */
+/* Button Hover Effect */
 button:hover {
     background: linear-gradient(135deg, #ff4b2b, #ff416c);
     transform: scale(1.05);
     box-shadow: 0px 8px 15px rgba(0, 0, 0, 0.3);
 }
 
-/* 🚀 Styled Output Box */
+/* Styled Output Box */
 #output {
     margin-top: 20px;
     font-size: 18px;
@@ -71,7 +71,7 @@ button:hover {
     transition: all 0.3s ease-in-out;
 }
 
-/* 🎨 Output Box Hover - Background Changes to Black */
+/* Output Box Hover - Background Changes to Black */
 #output:hover {
     background: black;
     color: white;
